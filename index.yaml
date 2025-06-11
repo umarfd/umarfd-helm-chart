@@ -3,12 +3,12 @@ entries:
   umarfd:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T10:43:15.811265989+07:00"
+    created: "2025-06-11T11:10:43.777916859+07:00"
     description: A Helm chart for Kubernetes
-    digest: 2b359337d5c9b50962254bab7d510c84a317dddfebb09c2fcf3d4f688d0e8bee
+    digest: 25d0782e6f886a350b5363f4b38fc4ee6a71b69314209f4185ce72a61c329bf1
     name: umarfd
     type: application
     urls:
     - https://umarfd.github.io/umarfd-helm-chart/umarfd-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-11T10:43:15.79704673+07:00"
+generated: "2025-06-11T11:10:43.776564982+07:00"
